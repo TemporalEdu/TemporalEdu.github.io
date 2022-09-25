@@ -13,12 +13,12 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  deploymentBranch: "gh-pages",
+
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'TemporalEdu', // Usually your GitHub org/user name.
-  projectName: 'Temporal', // Usually your repo name.
+  projectName: 'TemporalEdu.github.io', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
